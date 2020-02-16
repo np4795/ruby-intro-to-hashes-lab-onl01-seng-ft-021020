@@ -1,6 +1,6 @@
 def new_hash
 
- Lash = {}
+ hash_rat = {}
 end
 
 def actor
